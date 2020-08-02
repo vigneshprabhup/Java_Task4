@@ -43,7 +43,7 @@ public class DiffLargestAndSmallest {
 		}
 		
 		System.out.println("The minimum element is :" + min);
-		System.out.println("The Maximum element is :" + max);
+		System.out.println("The Maximum element is :" + max); // the difference is missing
 	}
 
 }
